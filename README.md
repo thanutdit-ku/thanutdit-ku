@@ -4,9 +4,15 @@ Year 2 Software and Knowledge Engineering student at Kasetsart University, Bangk
 
 🔭 **Looking for:** a software / backend / data internship in Bangkok
 
+🧑‍🏫 **Now:** Trainer at IDEKTEP, teaching kids Python, Arduino and robotics.
+
 ---
 
 ### 🛠️ Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,git,github,githubactions,vscode,arduino" />
+</p>
 
 **Languages:** Python
 
