@@ -11,10 +11,12 @@ Year 2 Software and Knowledge Engineering student at Kasetsart University, Bangk
 ### 🛠️ Tech I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,git,github,githubactions,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=py,c,lua,html,css,fastapi,mongodb,docker,git,github,githubactions,vscode,figma,arduino&perline=7" />
 </p>
 
-**Languages:** Python
+**Languages:** Python · C · Lua · HTML · CSS
+
+**Backend:** FastAPI · MongoDB
 
 **Data:** pandas · NumPy · Matplotlib · mplfinance
 
@@ -22,7 +24,9 @@ Year 2 Software and Knowledge Engineering student at Kasetsart University, Bangk
 
 **GUI / Games:** Tkinter · Pygame
 
-**Tools:** Git · GitHub Actions (CI) · pytest
+**Tools:** Git · GitHub Actions (CI) · Docker · pytest · VS Code · Figma
+
+**Hardware:** Arduino
 
 ---
 
@@ -37,5 +41,10 @@ Year 2 Software and Knowledge Engineering student at Kasetsart University, Bangk
 ---
 
 ### 📫 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/thanutdit--10a209451"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:thanutdit.jira@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
+</p>
 
 [LinkedIn](https://www.linkedin.com/in/thanutdit--10a209451) · Email: thanutdit.jira@gmail.com
